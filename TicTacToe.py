@@ -25,7 +25,6 @@ root = tk.Tk()
 root.title("Tic-Tac-Toe")
 
 buttons = []
-
 for i in range(9):
     btn = tk.Button(
         root,
